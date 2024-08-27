@@ -17,8 +17,6 @@
 
 ![banner](https://github.com/user-attachments/assets/edca7e46-1a5f-45cc-83b2-8e359e993e00)
 
-
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e33be582-605e-4633-b70b-106792cbe3ee">
 </p>
@@ -27,7 +25,7 @@
     <img src="https://github.com/user-attachments/assets/793db5ee-7db3-47c2-a6c4-973010cb9340" width="180" height="180">
 </p>
 
-<h3 align="center">Server de telegram clon</h3>
+<h3 align="center">App telegram clon</h3>
 
 
 <p align="center">
@@ -69,7 +67,7 @@
 
 ## Cambie de directorio al del proyecto
 
-    cd spyDroid
+    cd telegram
 
 
 # Especificaciones técnicas
