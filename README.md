@@ -15,9 +15,7 @@
   along with this program. If not, see <https://www.gnu.org/licenses/>.
 -->
 
-![banner](https://github.com/user-attachments/assets/ff85acda-c99f-46c9-a2d9-40d007ee2c57)
-
-
+![banner](https://github.com/user-attachments/assets/edca7e46-1a5f-45cc-83b2-8e359e993e00)
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/e33be582-605e-4633-b70b-106792cbe3ee">
