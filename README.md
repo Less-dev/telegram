@@ -67,7 +67,7 @@
 
 ## Cambie de directorio al del proyecto
 
-    cd spyDroid
+    cd telegram
 
 
 # Especificaciones técnicas
