@@ -25,7 +25,7 @@
     <img src="https://github.com/user-attachments/assets/793db5ee-7db3-47c2-a6c4-973010cb9340" width="180" height="180">
 </p>
 
-<h3 align="center">App telegram clon</h3>
+<h3 align="center">Server telegram clon</h3>
 
 
 <p align="center">
